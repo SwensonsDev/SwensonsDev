@@ -1,6 +1,8 @@
 # 👋 Hello, I'm Allen!
 
-Welcome to my GitHub profile! I'm a passionate Web and iOS developer with expertise in React JS, Next JS, Rust, and Swift.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+
+I'm a passionate Web and iOS developer with expertise in React JS, Next JS, Rust, and Swift.
 
 ## 😄 About Me
 I'm a developer who thrives on creating seamless and intuitive user experiences. With a strong background in both front-end and back-end development, I love bringing ideas to life through code.
