@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hello, I'm Allen!
 
-<!--
-**SwensonsDev/SwensonsDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate Web and iOS developer with expertise in React JS, Next JS, Rust, and Swift.
 
-Here are some ideas to get you started:
+## 😄 About Me
+I'm a developer who thrives on creating seamless and intuitive user experiences. With a strong background in both front-end and back-end development, I love bringing ideas to life through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Skills
+- React JS: Building dynamic and responsive web applications.
+- Next JS: Developing scalable and efficient server-side solutions.
+- Rust: Writing high-performance and safe code for various applications.
+- Swift: Currently learning and exploring iOS development.
+
+## Exp.
+Have created numerous web applications using React and Next, focusing on responsive design and efficient performance.
+
+Feel free to explore my repositories and connect with me! I'm always open to collaboration and new opportunities.
+
+⚡Email: swensonallen98@gmail.com
